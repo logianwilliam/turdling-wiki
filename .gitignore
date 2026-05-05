@@ -1,15 +1,8 @@
-# Jekyll build output
 _site/
-
-# Ruby / Bundler
 .bundle/
 vendor/
-
-# macOS junk
 .DS_Store
-
-# Logs
 *.log
-
-# VS Code (optional)
 .vscode/
+__pycache__/
+*.pyc

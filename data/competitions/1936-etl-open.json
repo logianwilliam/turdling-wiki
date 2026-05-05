@@ -1,0 +1,16 @@
+{
+  "slug": "1936-etl-open",
+  "name": "1st ETL Open",
+  "league": "ETL",
+  "date": "1936-02-02",
+  "location": "Berat, Albania",
+  "results": [
+    {
+      "place": 1,
+      "player_slug": "omer-gashi",
+      "player_name": "Omer Gashi",
+      "country": "Albania",
+      "weight": 1.12
+    }
+  ]
+}
