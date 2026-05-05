@@ -1,2 +1,8 @@
 title: Turdling Wiki
-theme: null
+markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
