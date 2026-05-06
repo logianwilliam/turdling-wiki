@@ -1,3 +1,7 @@
+---
+title: Players
+---
+
 # Players
 
-- [Marco Bell](marco-bell.md)
+- [Omer Gashi](../players/omer-gashi.md)
