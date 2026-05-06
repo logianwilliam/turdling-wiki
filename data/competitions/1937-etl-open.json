@@ -1,8 +1,8 @@
 {
-  "slug": "1936-etl-open",
-  "name": "1st ETL Open",
+  "slug": "1937-etl-open",
+  "name": "2nd ETL Open",
   "league": "ETL",
-  "date": "1936-02-07",
+  "date": "1937-02-05",
   "location": "Berat, Albania",
   "results": [
     {
@@ -10,7 +10,7 @@
       "player_slug": "omer-gashi",
       "player_name": "Omer Gashi",
       "country": "Albania",
-      "weight": 1.12
+      "weight": 1.46
     },
     {
       "place": 2,
@@ -21,6 +21,13 @@
     },
     {
       "place": 3,
+      "player_slug": "fotis-mavridis",
+      "player_name": "Fotis Mavridis",
+      "country": "Yugoslavia",
+      "weight": 0
+    },
+    {
+      "place": 4,
       "player_slug": "aleksandar-dordevic",
       "player_name": "Aleksandar Đorđević",
       "country": "Yugoslavia",

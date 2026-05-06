@@ -6,3 +6,4 @@ Welcome to the official archive.
 
 - [Competitions](competitions/)
 - [Players](players/)
+- [Leagues](leagues/)

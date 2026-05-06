@@ -1,8 +1,8 @@
 {
-  "slug": "1936-etl-open",
-  "name": "1st ETL Open",
-  "league": "ETL",
-  "date": "1936-02-07",
+  "slug": "1936-itl-open",
+  "name": "1st ITL Open",
+  "league": "ITL",
+  "date": "1936-04-03",
   "location": "Berat, Albania",
   "results": [
     {
@@ -10,17 +10,24 @@
       "player_slug": "omer-gashi",
       "player_name": "Omer Gashi",
       "country": "Albania",
-      "weight": 1.12
+      "weight": 0.94
     },
     {
       "place": 2,
+      "player_slug": "mehmet-yilmaz",
+      "player_name": "Mehmet Yilmaz",
+      "country": "Turkey",
+      "weight": 0
+    },
+    {
+      "place": 3,
       "player_slug": "petar-kolev",
       "player_name": "Petar Kolev",
       "country": "Bulgaria",
       "weight": 0
     },
     {
-      "place": 3,
+      "place": 4,
       "player_slug": "aleksandar-dordevic",
       "player_name": "Aleksandar Đorđević",
       "country": "Yugoslavia",
